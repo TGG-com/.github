@@ -6,6 +6,8 @@
 <br />
 
 <p>
+  <img style="max-width: 33%;" src="./logo/121247710.png" />
+  <img style="max-width: 33%;" src="./logo/81649039.png" />
   <img style="max-width: 33%;" src="./logo/112225386.png" />
 </p>
 
