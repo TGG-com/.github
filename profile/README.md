@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img style="width: 200px; height: 50px;" src="/profile/logo/133835137.png" /><a href="https://github.com/TGG-com">.com</a>
+  <img style="width: 200px; height: 80px;" src="/profile/logo/133835137.png" /><a href="https://github.com/TGG-com">.com</a>
 </h1>
 
 <br />
