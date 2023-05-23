@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a>TGG.com Group</a>
+  <a>TGG.com</a>
 </h1>
 
 <br />
