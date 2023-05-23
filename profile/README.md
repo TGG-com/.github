@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a>TGG.com</a>
+  <a href="https://github.com/TGG-com">TGG.com</a>
 </h1>
 
 <br />
