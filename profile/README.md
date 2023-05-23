@@ -6,7 +6,7 @@
 <br />
 
 <p>
-  <img src="./logo/112225386.png" />
+  <img style="max-width: 33%;" src="./logo/112225386.png" />
 </p>
 
 <br />
