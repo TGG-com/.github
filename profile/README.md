@@ -6,9 +6,7 @@
 <br />
 
 <p>
-  <img style="max-width: 33%;" src="/profile/logo/121247710.png" />
-  <img style="max-width: 33%;" src="/profile/logo/81649039.png" />
-  <img style="max-width: 33%;" src="/profile/logo/112225386.png" />
+  <img style="max-width: 33%;" src="/profile/logo/121247710.png" /> <img style="max-width: 33%;" src="/profile/logo/81649039.png" /> <img style="max-width: 33%;" src="/profile/logo/112225386.png" />
 </p>
 
 <br />
