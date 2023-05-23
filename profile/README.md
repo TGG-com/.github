@@ -6,7 +6,7 @@
 <br />
 
 <p>
-  <img style="width: 33%;" src="/profile/logo/121247710.png" /> <img style="width: 33%;" src="/profile/logo/81649039.png" /> <img style="width: 33%;" src="/profile/logo/112225386.png" />
+  <img style="width: 33%;" src="/profile/logo/121247710.png" /> <img style="width: 33%; border-radius: 50%;" src="/profile/logo/81649039.png" /> <img style="width: 33%;" src="/profile/logo/112225386.png" />
 </p>
 
 <br />
