@@ -1,7 +1,6 @@
         console.log("TGG.com");
         print("TGG.com")
         System.out.println("TGG.com");
-        std::cout << "TGG.com" << std::endl;
     
 
 
