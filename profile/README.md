@@ -8,7 +8,19 @@
            private String name;
 
            getId() {
-
+               return id;
+           }
+           
+           setId(int id) {
+               this.id = id;
+           }
+               
+           getId() {
+               return id;
+           }
+           
+           setId(int id) {
+               this.id = id;
            }
       }
 </p>
