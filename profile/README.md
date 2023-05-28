@@ -1,4 +1,5 @@
 <p>
+     /*Class*/
       public class TGG {
       private int id;
       private ArrayList<String>() member;
