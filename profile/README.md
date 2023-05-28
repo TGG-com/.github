@@ -1,4 +1,4 @@
-<script>
+<p>
      /*Class*/
      
      
@@ -23,7 +23,7 @@
                this.id = id;
            }
       }
-</script>
+</p>
 
 
 ## Languages:
