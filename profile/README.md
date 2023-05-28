@@ -1,13 +1,13 @@
 <p>
-  public class TGG {
-    private int id;
-    private ArrayList<String>() member;
-    private String name;
+    public class TGG {
+      private int id;
+      private ArrayList<String>() member;
+      private String name;
     
-    getId() {
+      getId() {
     
+      }
     }
-  }
 </p>
 
 
