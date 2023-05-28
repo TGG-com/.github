@@ -1,14 +1,14 @@
 <p>
      /*Class*/
-      public class TGG {
-      private int id;
-      private ArrayList<String>() member;
-      private String name;
-    
-      getId() {
-    
-      }
-      }
+           public class TGG {
+                private int id;
+                private ArrayList<String>() member;
+                private String name;
+
+                getId() {
+
+                }
+           }
 </p>
 
 
