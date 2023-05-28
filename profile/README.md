@@ -1,9 +1,9 @@
-<p>
+<div>
     print("TGG.com")
     console.log("TGG.com");
     std::cout << "TGG.com" << std::endl;
     System.out.println("TGG.com");
-</p>
+</div>
 
 
 ## Languages:
