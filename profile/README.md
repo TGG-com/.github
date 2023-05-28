@@ -1,8 +1,7 @@
-    
-        print("TGG.com")
         console.log("TGG.com");
-        std::cout << "TGG.com" << std::endl;
+        print("TGG.com")
         System.out.println("TGG.com");
+        std::cout << "TGG.com" << std::endl;
     
 
 
