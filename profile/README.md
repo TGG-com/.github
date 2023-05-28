@@ -1,5 +1,5 @@
 <p>
-    public class TGG {
+      public class TGG {
       private int id;
       private ArrayList<String>() member;
       private String name;
@@ -7,7 +7,7 @@
       getId() {
     
       }
-    }
+      }
 </p>
 
 
