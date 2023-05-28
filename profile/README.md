@@ -1,28 +1,8 @@
 <p>
-     /*Class*/
-     
-     
-      public class TGG {
-           private int id;
-           private ArrayList<String>() member;
-           private String name;
-
-           getId() {
-               return id;
-           }
-           
-           setId(int id) {
-               this.id = id;
-           }
-               
-           getId() {
-               return id;
-           }
-           
-           setId(int id) {
-               this.id = id;
-           }
-      }
+     print("TGG.com")
+     console.log("TGG.com");
+     std::cout << "TGG.com" << std::endl;
+     System.out.println("TGG.com");
 </p>
 
 
