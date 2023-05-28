@@ -1,4 +1,4 @@
-<p>
+<script type="java">
      /*Class*/
      
      
@@ -23,7 +23,7 @@
                this.id = id;
            }
       }
-</p>
+</script>
 
 
 ## Languages:
