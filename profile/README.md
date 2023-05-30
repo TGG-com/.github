@@ -7,7 +7,7 @@
 
 
 ## Languages:
-<p align="left"> <a href="#"><img src="./picture/java.svg" alt="java" width="40" height="40"/></a> <a href="#"><img src="./picture/js.svg" alt="javascript" width="40" height="40"/></a> <a href="#"><img src="./picture/python.svg" alt="python" width="40" height="40"/></a> <a href="#"> <img width="70px" src="./picture/SQL.png" alt="SQL"/> </a> </p>
+<p align="left"> <a href="#"><img src="/picture/java.svg" alt="java" width="40" height="40"/></a> <a href="#"><img src="./picture/js.svg" alt="javascript" width="40" height="40"/></a> <a href="#"><img src="/picture/python.svg" alt="python" width="40" height="40"/></a> <a href="#"> <img width="70px" src="./picture/SQL.png" alt="SQL"/> </a> </p>
 
 ## Frameworks:
 <p align="left"> <a href="#"> <img width="50px" src="./picture/react.png" alt="react" /> </a> </p>
