@@ -1,4 +1,4 @@
-<h1 align="center">TGG-com</h1>
+<h1 align="center">T G G-com</h1>
 
         console.log("TGG-com");
         print("TGG-com")
