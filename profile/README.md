@@ -11,7 +11,7 @@
 
 
 ## Tools:
-<p align="left"> <a href="#"> <img width="60px" src="./picture/heidi.png" alt="heidiSQL" /> </a> <a href="#"> <img width="50px" src="./picture/vscode.png" alt="VScode" /> </a> <a href="#"> <img width="50px" src="./picture/eclipse.png" alt="eclipse" /> </a> </p>
+<p align="left"> <a href="#"> <img width="50px" src="./picture/heidi.png" alt="heidiSQL" /> </a> <a href="#"> <img width="50px" src="./picture/vscode.png" alt="VScode" /> </a> <a href="#"> <img width="50px" src="./picture/eclipse.png" alt="eclipse" /> </a> </p>
 
 
 
