@@ -1,8 +1,8 @@
 <h1 align="center">TGG-com</h1>
 
-        console.log("TGG.com");
-        print("TGG.com")
-        System.out.println("TGG.com");
+        console.log("TGG-com");
+        print("TGG-com")
+        System.out.println("TGG-com");
     
 
 
