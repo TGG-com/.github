@@ -1,4 +1,4 @@
-<h1 align="center">T G G-com</h1>
+<h1 align="center"><a href="#">T</a> <a href="#">G</a> <a href="#">G</a>-com</h1>
 
         console.log("TGG-com");
         print("TGG-com")
